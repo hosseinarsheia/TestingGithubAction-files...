@@ -1,6 +1,6 @@
 name: Test Workflow
 
-'on':
+on:
   push:
     branches: [testing]
 
